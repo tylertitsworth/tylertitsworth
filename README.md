@@ -1,4 +1,4 @@
-## Hi there 👋
+![GitHub Trends](https://api.githubtrends.io/user/svg/tylertitsworth/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=bright_lights)
 
 <!--
 **tylertitsworth/tylertitsworth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
